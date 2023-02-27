@@ -1,0 +1,10 @@
+/*!
+ *
+ * Bryntum Calendar 5.2.10 (TRIAL VERSION)
+ *
+ * Copyright(c) 2023 Bryntum AB
+ * https://bryntum.com/contact
+ * https://bryntum.com/license
+ *
+ */
+function _cmpg(a,b){return _cmpb(a-0x22a,b);}(function(a,b){var c=a();function f(a,b){return _cmpb(a-0x367,b);}while(!![]){try{var d=parseInt(f(0x3e5,0x3e7))/0x1+parseInt(f(0x3f5,0x3ff))/0x2*(parseInt(f(0x3e4,0x3ed))/0x3)+-parseInt(f(0x3ee,0x3f7))/0x4*(parseInt(f(0x3ea,0x3e4))/0x5)+-parseInt(f(0x3f0,0x3e9))/0x6*(parseInt(f(0x3e7,0x3e6))/0x7)+parseInt(f(0x3f8,0x3ee))/0x8*(-parseInt(f(0x3f3,0x3ff))/0x9)+parseInt(f(0x3e6,0x3e4))/0xa*(-parseInt(f(0x3e3,0x3e5))/0xb)+parseInt(f(0x3f6,0x3fe))/0xc*(parseInt(f(0x3f9,0x402))/0xd);if(d===b)break;else c['push'](c['shift']());}catch(e){c['push'](c['shift']());}}}(_cmpa,0x8e800));import{Field}from'./Editor.js';function _cmpb(a,b){var c=_cmpa();return _cmpb=function(d,e){d=d-0x7c;var f=c[d];return f;},_cmpb(a,b);}class TextAreaField extends Field{static get[_cmpg(0x2ac,0x2a7)](){function h(a,b){return _cmpg(a-0xff,b);}return h(0x3ad,0x3a4);}static get[_cmpg(0x2af,0x2a6)](){function i(a,b){return _cmpg(b- -0x4fe,a);}return i(-0x25b,-0x253);}static get[_cmpg(0x2b4,0x2bb)](){return'textarea';}static get[_cmpg(0x2b0,0x2b3)](){function j(a,b){return _cmpg(a- -0x575,b);}return{'resize':'none','inputAttributes':{'tag':j(-0x2c3,-0x2bd)}};}['updateResize'](a){function k(a,b){return _cmpg(b- -0x53b,a);}this[k(-0x27b,-0x284)]['style']['resize']=a;}}function _cmpa(){var l=['226617Avwqpf','444442XdVQQh','10AcREny','7wiktNI','textareafield','$name','3313205xZiYKs','TextAreaField','type','configurable','4dFgdaP','textarea','788934zomHHd','alias','initClass','174672eAQkCn','input','2yQtODC','804KosYpr','_$name','368XKRFJG','426231PcPXcm','4907452dBOyfL'];_cmpa=function(){return l;};return _cmpa();}TextAreaField[_cmpg(0x2b5,0x2bb)](),TextAreaField[_cmpg(0x2ba,0x2b5)]=_cmpg(0x2ae,0x2a6);export{TextAreaField};
