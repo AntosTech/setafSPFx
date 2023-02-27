@@ -1,0 +1,32 @@
+[
+  {
+    "id": "general",
+    "name": "General",
+    "intervals": [
+      {
+        "recurrentStartDate": "every weekday at 12:00",
+        "recurrentEndDate": "every weekday at 13:00",
+        "isWorking": false
+      },
+      {
+        "recurrentStartDate": "every weekday at 17:00",
+        "recurrentEndDate": "every weekday at 08:00",
+        "isWorking": false
+      }
+    ],
+    "expanded": true,
+    "children": [
+      {
+        "id": "night",
+        "name": "Night shift",
+        "intervals": [
+          {
+            "recurrentStartDate": "every weekday at 6:00",
+            "recurrentEndDate": "every weekday at 22:00",
+            "isWorking": false
+          }
+        ]
+      }
+    ]
+  }
+]

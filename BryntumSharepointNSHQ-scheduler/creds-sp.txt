@@ -1,0 +1,24 @@
+https://sharepoint.jaav.projects.fyle.nl/
+
+
+H*(q347h32)S211 veranderd naar  CWHt8Gtu
+
+SPAdmin
+CWHt8GtuCWHt8Gtu
+
+Farm security passphrase
+CWHt8GtuCWHt8Gtu
+
+Main application (443)
+https://sharepoint.jaav.projects.fyle.nl
+
+App domain
+apps.jaav.projects.fyle.nl
+
+App prefix
+sps16
+
+sps13\jaav
+
+Welkom01!
+

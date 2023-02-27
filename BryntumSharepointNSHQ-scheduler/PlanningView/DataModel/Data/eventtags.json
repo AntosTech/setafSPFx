@@ -1,0 +1,194 @@
+[
+  {
+    "__metadata": {
+      "id": "ef48584b-243a-4f9d-a09b-a95f2e7a00ca",
+      "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)",
+      "etag": "\"2\"",
+      "type": "SP.Data.EventTagListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(1)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 1,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x0100810F636F38472E41B0A7E8CBBC270E08",
+    "Title": "Battle Rhythm",
+    "ComplianceAssetId": null,
+    "Category": "Event Tags",
+    "Selected": false,
+    "Icon": "b-fa-fighter-jet",
+    "ID": 1,
+    "Modified": "2022-08-04T12:35:20Z",
+    "Created": "2021-12-17T15:24:04Z",
+    "AuthorId": 10,
+    "EditorId": 10,
+    "OData__UIVersionString": "2.0",
+    "Attachments": false,
+    "GUID": "3a07951d-cc6e-4831-a351-9a91aaffe364"
+  },
+  {
+    "__metadata": {
+      "id": "ac23ce7b-849e-4464-a7b1-727ead8212ee",
+      "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)",
+      "etag": "\"4\"",
+      "type": "SP.Data.EventTagListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1b9.sharepoint.com/sites/bryntum/PlanningViewCalendar/_api/Web/Lists(guid'acde9faa-2be3-46ab-9af8-709ccd738c80')/Items(2)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 2,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x0100810F636F38472E41B0A7E8CBBC270E08",
+    "Title": "Test Event Tag",
+    "ComplianceAssetId": null,
+    "Category": "Event Tags",
+    "Selected": false,
+    "Icon": "b-fa-rocket",
+    "ID": 2,
+    "Modified": "2022-08-04T12:35:32Z",
+    "Created": "2021-12-27T09:41:21Z",
+    "AuthorId": 16,
+    "EditorId": 10,
+    "OData__UIVersionString": "4.0",
+    "Attachments": false,
+    "GUID": "44c39f10-c646-47d2-80ee-86ce2a17d98e"
+  }
+]

@@ -1,0 +1,33 @@
+- hardcode defaults for filter (specs for dynamic setting will follow)
+- some changes to legend colors sent by mail
+
+
+-------------
+- browser
+- filter defaults
+- legend colors (NSOS and course should both be the same light blue colour)
+- expanding to hour
+- flags
+
+1.     For TDY and Leaves, the title should reflect whether it is a TDY or a Leave.  Below are a few examples (discussed with Akisha and we will handle this in our data transformation phase):
+·       Leave (A) -- Robert Smith
+2.     I don’t see any unplanned personnel in the display
+3.     Expand one hour events to fill the day.
+4.     NSOS and course should both be the same light blue colour
+5.     Can we update the font colour for greater contrast on the lighter background colours
+6.     When clicking reset the filter, the behaviour of the calendar is correct, but the filter checkboxes remain as it was. 
+7.     There is a problem with categories.  This is a function that we have in our current BRPlus, but it looks like we never translated it into the new requirement.  It’s understood that this won’t be part of this effort, but we want to at least talk about it prior to the next phase.
+8.     Future:  It would be nice to have more than 2 months with a  sliding bar.  Current one month is great, two months is good enough. Future would be good to see more.
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+https://jaav-6da773a3fbe142.sharepoint.com/sites/bryntum/SchedulerGrouped/Pages/ie.html?Default.aspx?SPHostUrl=https%3A%2F%2Fjaav%2Esharepoint%2Ecom%2Fsites%2Fbryntum&SPLanguage=en-US&SPClientTag=0&SPProductNumber=16%2E0%2E19527%2E12083&SPAppWebUrl=https%3A%2F%2Fjaav-6da773a3fbe142%2Esharepoint%2Ecom%2Fsites%2Fbryntum%2FSchedulerGrouped
+
+https://jaav-6da773a3fbe142.sharepoint.com/sites/bryntum/SchedulerGrouped/Pages/ie.html?Default.aspx?SPHostUrl=https%3A%2F%2Fjaav%2Esharepoint%2Ecom%2Fsites%2Fbryntum&SPLanguage=en%2DUS&SPClientTag=0&SPProductNumber=16%2E0%2E19527%2E12083&SPAppWebUrl=https%3A%2F%2Fjaav%2D6da773a3fbe142%2Esharepoint%2Ecom%2Fsites%2Fbryntum%2FSchedulerGrouped?SPHostUrl=https%3A%2F%2Fjaav%2Esharepoint%2Ecom%2Fsites%2Fbryntum&SPLanguage=en%2DUS&SPClientTag=0&SPProductNumber=16%2E0%2E19527%2E12083&SPAppWebUrl=https%3A%2F%2Fjaav%2D6da773a3fbe142%2Esharepoint%2Ecom%2Fsites%2Fbryntum%2FSchedulerGrouped
+
+- Date range starting at 8
+- Timerange check filter
+- Discuss fillTicks TZ
+- National Holiday coding
+

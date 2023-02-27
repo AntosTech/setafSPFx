@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\scheduler.stockholm.css" Url="Content/scheduler/scheduler.stockholm.css" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-solid-900.ttf" Url="Content/scheduler/fonts/fa-solid-900.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-solid-900.woff2" Url="Content/scheduler/fonts/fa-solid-900.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Bold.woff" Url="Content/scheduler/fonts/Roboto-Bold.woff" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Bold.woff2" Url="Content/scheduler/fonts/Roboto-Bold.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Light.woff" Url="Content/scheduler/fonts/Roboto-Light.woff" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Light.woff2" Url="Content/scheduler/fonts/Roboto-Light.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Medium.woff" Url="Content/scheduler/fonts/Roboto-Medium.woff" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Medium.woff2" Url="Content/scheduler/fonts/Roboto-Medium.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Regular.woff" Url="Content/scheduler/fonts/Roboto-Regular.woff" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\Roboto-Regular.woff2" Url="Content/scheduler/fonts/Roboto-Regular.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\locales\scheduler.locale.En.js" Url="Content/scheduler/locales/scheduler.locale.En.js" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\locales\scheduler.locale.Nl.js" Url="Content/scheduler/locales/scheduler.locale.Nl.js" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\locales\scheduler.locale.Ru.js" Url="Content/scheduler/locales/scheduler.locale.Ru.js" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\locales\scheduler.locale.SvSE.js" Url="Content/scheduler/locales/scheduler.locale.SvSE.js" ReplaceContent="TRUE" />
+    <File Path="Content\Header.css" Url="Content/Header.css" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\scheduler.stockholm.css.map" Url="Content/scheduler/scheduler.stockholm.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\scheduler.stockholm.min.css" Url="Content/scheduler/scheduler.stockholm.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-v4compatibility.ttf" Url="Content/scheduler/fonts/fa-v4compatibility.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-v4compatibility.woff2" Url="Content/scheduler/fonts/fa-v4compatibility.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-regular-400.woff2" Url="Content/scheduler/fonts/fa-regular-400.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-brands-400.ttf" Url="Content/scheduler/fonts/fa-brands-400.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-brands-400.woff2" Url="Content/scheduler/fonts/fa-brands-400.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\fonts\fa-regular-400.ttf" Url="Content/scheduler/fonts/fa-regular-400.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\scheduler\scheduler.stockholm.min.css.map" Url="Content/scheduler/scheduler.stockholm.min.css.map" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\AppIcon.png" Url="Images/AppIcon.png" ReplaceContent="TRUE" />
+    <File Path="Images\NSHQ_Main_Logo_sm.png" Url="Images/NSHQ_Main_Logo_sm.png" ReplaceContent="TRUE" />
+    <File Path="Images\NSHQCrest.png" Url="Images/NSHQCrest.png" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

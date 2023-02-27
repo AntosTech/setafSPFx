@@ -1,0 +1,16 @@
+ProcessEvents and create Resources
+
+
+PTS
+	resourceId = person(detail)Id
+
+PMT
+	PMT + eventId
+
+
+PlannedActivity
+	resourceId = PA + plannedActivityId
+
+
+CalendarEntries
+	resourceId = DirectorateOrDivision + eventTitle

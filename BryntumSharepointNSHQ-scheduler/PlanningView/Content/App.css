@@ -1,0 +1,161 @@
+﻿/* Place custom styles below */
+
+/* Custom */
+body {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+body.b-change-size .nthqplaceholder {
+    transition: all .3s;
+}
+
+.b-tabpanel-tab:hover:not(.b-active), .b-tabpanel-tab:focus:not(.b-active) {
+    background-color: #feac31;
+    color: white;
+}
+
+.nthqplaceholder {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    background: #f0f0f0;
+    border: 2px solid #d0d0d0;
+    font-size: 14px;
+}
+
+.nthqscheduler {
+    flex: 1;
+}
+
+/* Event */
+
+.b-sch-event {
+    border-radius: 2px;
+}
+
+.b-sch-style-border .b-sch-event {
+    background-color: unset;
+}
+
+.b-sch-style-border.b-milestone-wrap.b-sch-color-green .b-sch-event:not(.b-sch-event-withicon):before {
+    background-color: inherit;
+}
+
+.b-sch-event.part {
+    opacity: .6;
+    color: #87CEF0;
+}
+
+
+/* Tooltip */
+.b-sch-event-tooltip {
+    min-width : 190px;
+}
+
+.b-sch-event-tooltip dl,
+.b-sch-event-tooltip dt,
+.b-sch-event-tooltip dd {
+    padding : 0;
+    margin  : 0;
+}
+
+.b-sch-event-tooltip dd {
+    display        : flex;
+    flex-direction : row;
+    align-items    : center;
+    margin-top     : 0.3em;
+    line-height    : 1em;
+}
+
+.b-sch-event-tooltip dt {
+    font-weight: bold;
+}
+
+.b-sch-event-tooltip dt:not(:first-child) {
+    margin-top : 1em;
+}
+
+.b-sch-event-tooltip dd .image {
+    height : 250px;
+}
+
+/* Event editor */
+
+.b-eventeditor-content .b-widget.b-field:not(.b-display-field) {
+    height : 35px;
+}
+
+.b-eventeditor-content .b-has-label label, .b-eventeditor-content .b-has-label dt {
+    margin-left: unset;
+    text-align: left;
+    font-size:12px !important;
+    /*min-width: 100px;*/
+    text-transform: uppercase;
+    font-weight: 500;
+    text-overflow: ellipsis
+}
+
+.b-eventeditor.b-popup .b-eventeditor-content.b-popup-content {
+    padding-bottom: 15px;
+}
+
+.b-eventeditor-content .b-field-inner {
+    border-style: none;
+    font-size: smaller;
+}
+
+.b-eventeditor .b-popup-close {
+    color : white;
+}
+
+.nthqparticipants_table {
+    height: auto !important;
+}
+
+.nthqparticipants_table {
+    width:100%;
+    font-size:10px;
+}
+
+.nthqparticipants_table .b-field-inner {
+    background-color: white;
+}
+
+.nthqparticipants_table th {
+    text-align: left;
+}
+
+.b-sch-header-timeaxis-cell {
+    font-size: 9px;
+}
+
+.b-resource-info img {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.b-sch-event {
+    opacity: 1 !important;
+}
+
+.b-sch-event:hover {
+    opacity: 0.8 !important;
+}
+
+.b-grid-header .b-sch-timerange {
+    /*background-color: unset!important;*/
+}
+
+.b-grid-header .b-sch-timerange span {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.b-sch-event.b-milestone label, .b-sch-event .b-sch-event-content, .b-sch-event-wrap:not(.b-milestone-wrap) .b-sch-event {
+    font-weight: 400 !important;
+}
+
+.b-sch-style-border.b-sch-custom-color > .b-sch-event:not(.b-milestone) {
+    background-image: unset !important;
+}
