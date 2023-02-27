@@ -1,0 +1,5 @@
+C:\Users\terencevanzoelen\source\repos\BryntumSharepointNSHQ\PlanningView\bin\Debug\NSHQ.pdb
+C:\Users\terencevanzoelen\source\repos\BryntumSharepointNSHQ\PlanningView\obj\Debug\NTHQ.csprojAssemblyReference.cache
+C:\Users\terencevanzoelen\source\repos\BryntumSharepointNSHQ\PlanningView\obj\Debug\NTHQ.csproj.CoreCompileInputs.cache
+C:\Users\terencevanzoelen\source\repos\BryntumSharepointNSHQ\PlanningView\obj\Debug\NSHQ.dll
+C:\Users\terencevanzoelen\source\repos\BryntumSharepointNSHQ\PlanningView\obj\Debug\NSHQ.pdb
