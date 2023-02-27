@@ -1,0 +1,139 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92D76071-2681-4FAB-8940-A7625E05FF17}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NSHQ</RootNamespace>
+    <AssemblyName>NSHQ</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetOfficeVersion>16.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+    <MinimumOfficeToolsVersion>14.0</MinimumOfficeToolsVersion>
+    <IncludeAssemblyInPackage>False</IncludeAssemblyInPackage>
+    <ProjectMode>SharePointApp</ProjectMode>
+    <AppFeaturePartId>{c67e57d0-b35b-42c2-a1f4-5f082c803ffe}</AppFeaturePartId>
+    <WspPartId>{e33d3788-f23f-4254-ab06-1d0b98565928}</WspPartId>
+    <WorkflowPartId>{b859da3c-527d-4156-bcff-d8a53d216509}</WorkflowPartId>
+    <CspkgPartId>{5732ccc1-12d4-4f13-bcc7-ff322e0f416d}</CspkgPartId>
+    <SqlPackagePartId>{aafbcd10-9499-4f17-800a-08bd7317ca6f}</SqlPackagePartId>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Content\calendar\calendar.stockholm.css" />
+    <Content Include="Content\calendar\calendar.stockholm.min.css" />
+    <Content Include="Content\calendar\locales\calendar.locale.En.js" />
+    <Content Include="Content\calendar\locales\calendar.locale.Nl.js" />
+    <Content Include="Content\calendar\locales\calendar.locale.Ru.js" />
+    <Content Include="Content\calendar\locales\calendar.locale.SvSE.js" />
+    <Content Include="Content\Header.css" />
+    <Content Include="Elements.xml" />
+    <Content Include="Images\NSHQCrest.png" />
+    <Content Include="Images\NSHQ_Main_Logo_sm.png">
+      <OpcRelationship>manifest-icon</OpcRelationship>
+    </Content>
+    <Content Include="Pages\ie.html" />
+    <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\Scheduler.umd.js" />
+    <None Include="Content\calendar\calendar.stockholm.css.map" />
+    <None Include="Content\calendar\calendar.stockholm.min.css.map" />
+    <None Include="Content\calendar\fonts\fa-brands-400.ttf" />
+    <None Include="Content\calendar\fonts\fa-brands-400.woff2" />
+    <None Include="Content\calendar\fonts\fa-regular-400.ttf" />
+    <None Include="Content\calendar\fonts\fa-regular-400.woff2" />
+    <None Include="Content\calendar\fonts\fa-solid-900.ttf" />
+    <None Include="Content\calendar\fonts\fa-solid-900.woff2" />
+    <None Include="Content\calendar\fonts\fa-v4compatibility.ttf" />
+    <None Include="Content\calendar\fonts\fa-v4compatibility.woff2" />
+    <None Include="Content\calendar\fonts\Roboto-Bold.woff" />
+    <None Include="Content\calendar\fonts\Roboto-Bold.woff2" />
+    <None Include="Content\calendar\fonts\Roboto-Light.woff" />
+    <None Include="Content\calendar\fonts\Roboto-Light.woff2" />
+    <None Include="Content\calendar\fonts\Roboto-Medium.woff" />
+    <None Include="Content\calendar\fonts\Roboto-Medium.woff2" />
+    <None Include="Content\calendar\fonts\Roboto-Regular.woff" />
+    <None Include="Content\calendar\fonts\Roboto-Regular.woff2" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Pages\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{6dbf50cb-6fbb-4b4f-a98e-4b1416cf59c5}</SharePointProjectItemId>
+    </None>
+    <Content Include="Pages\Elements.xml" />
+    <Content Include="Pages\Default.aspx" />
+    <None Include="Scripts\jquery.min.map" />
+    <None Include="SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3f0608fa-d534-47d8-a1d7-057e6c31ec6e}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{aafbcd10-9499-4f17-800a-08bd7317ca6f}</SharePointProjectItemId>
+    </None>
+    <Content Include="Scripts\Elements.xml" />
+    <Content Include="Scripts\App.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{cc37a2bc-b2a0-4f79-8a8c-9bac8803c8b3}</SharePointProjectItemId>
+    </None>
+    <Content Include="Content\Elements.xml" />
+    <Content Include="Content\App.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\AppIcon.png" />
+    <Content Include="Images\Elements.xml" />
+    <None Include="Images\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{0759d3f7-348e-42f2-a4a6-7d65c88853c6}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Package\Package.package">
+      <PackageId>{704ad5d8-9440-49f5-92f0-93ce2924682a}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="Features\Feature1\Feature1.feature">
+      <FeatureId>{6fd246f8-994c-44a9-911a-02c61a480993}</FeatureId>
+    </None>
+    <None Include="Features\Feature1\Feature1.Template.xml">
+      <DependentUpon>Feature1.feature</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <AppManifestFile Include="AppManifest.xml">
+      <SubType>Designer</SubType>
+    </AppManifestFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

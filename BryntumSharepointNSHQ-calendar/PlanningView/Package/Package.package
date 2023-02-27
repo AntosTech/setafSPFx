@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="704ad5d8-9440-49f5-92f0-93ce2924682a" 
+        solutionId="704ad5d8-9440-49f5-92f0-93ce2924682a" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SchedulerGrouped"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="6fd246f8-994c-44a9-911a-02c61a480993" />
+  </features>
+</package>

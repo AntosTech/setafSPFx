@@ -1,0 +1,2123 @@
+[
+  {
+    "__metadata": {
+      "id": "841e1010-4eee-4151-aace-d1a92513a3a4",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)",
+      "etag": "\"5\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(1)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 1,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "TDY Approved",
+    "Category": "PTS",
+    "NonWorking": false,
+    "Selected": false,
+    "seeb": "#000080",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "TDY",
+    "Tooltip": "PTS TDY",
+    "EventFontColor": null,
+    "ID": 1,
+    "Modified": "2021-11-26T09:54:25Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "42fcf1da-a4a7-48e5-9272-e18f6197c09b"
+  },
+  {
+    "__metadata": {
+      "id": "df5d5451-4da6-4aa8-b2a1-bf4dc811d0f1",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)",
+      "etag": "\"6\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(2)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 2,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Leave Approved",
+    "Category": "PTS",
+    "NonWorking": false,
+    "Selected": false,
+    "seeb": "#6b0000",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "Leave",
+    "Tooltip": "PTS Leave",
+    "EventFontColor": "#e53b1e",
+    "ID": 2,
+    "Modified": "2021-11-26T13:10:26Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "2b36f03b-43ea-4961-b385-74464b5f39a1"
+  },
+  {
+    "__metadata": {
+      "id": "60d17814-a1f4-48a0-bb50-6de714895ca1",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)",
+      "etag": "\"4\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(4)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 4,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Block Leave and Minimum Manning Period",
+    "Category": "Planning Calendar",
+    "NonWorking": true,
+    "Selected": true,
+    "seeb": "#F4A460",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "B. Leave",
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 4,
+    "Modified": "2021-11-26T10:06:26Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "eb6cfec6-af0e-4037-a202-9c59f9707324"
+  },
+  {
+    "__metadata": {
+      "id": "ca015fd7-0ea7-46a6-a974-e68c943d8246",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)",
+      "etag": "\"9\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(5)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 5,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Briefing",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#6495ED",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 5,
+    "Modified": "2021-11-26T11:18:06Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "53bccffe-1d3b-42eb-af0c-b74df5d80127"
+  },
+  {
+    "__metadata": {
+      "id": "24ca0e52-d9d3-4ba3-b07d-65d6b993ee75",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)",
+      "etag": "\"4\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(6)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 6,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Course",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#87CEFA",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 6,
+    "Modified": "2021-11-26T09:42:43Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "48b7f68a-8f78-4d83-982d-5a4d1f7b0219"
+  },
+  {
+    "__metadata": {
+      "id": "4b8d75b4-f256-42bd-aa33-09a0848bee7f",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)",
+      "etag": "\"3\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(7)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 7,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Evaluation",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#EE82EE",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 7,
+    "Modified": "2021-11-26T09:42:48Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "eb97bcc8-fcec-4a1a-8d34-7f2d9f455b08"
+  },
+  {
+    "__metadata": {
+      "id": "6aa94e45-319e-4c90-99e5-6382af515c26",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)",
+      "etag": "\"3\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(9)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 9,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Exercise",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#4D924D",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 9,
+    "Modified": "2021-11-26T09:42:58Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "b639a391-e142-402e-aa12-c1f3423fa7eb"
+  },
+  {
+    "__metadata": {
+      "id": "e69485cd-01c2-42db-b21c-1a46f3f9b34f",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)",
+      "etag": "\"3\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(10)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 10,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Meeting",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#B3B3B3",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 10,
+    "Modified": "2021-11-26T09:43:02Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "e874545f-8902-4b13-b63f-51fa081e18b9"
+  },
+  {
+    "__metadata": {
+      "id": "a7e87afe-d3ab-4ba9-b07a-39df8dfea885",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)",
+      "etag": "\"6\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(11)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 11,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "National Exercise",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": false,
+    "seeb": "#C9C9FF",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "N. Ex.",
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 11,
+    "Modified": "2021-12-02T11:10:18Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 16,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "cde18be8-5838-4ca5-949e-39e9bf36b95c"
+  },
+  {
+    "__metadata": {
+      "id": "d282c4b1-4993-4d19-80e2-12929af52cae",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)",
+      "etag": "\"4\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(12)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 12,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "NATO or SHAPE Event",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#00CEFF",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "Event",
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 12,
+    "Modified": "2021-11-26T10:16:53Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "e11bd5de-503d-4bdd-abb0-4616c11b46c6"
+  },
+  {
+    "__metadata": {
+      "id": "2b375c83-d06d-401e-84f0-0e56dde8d409",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)",
+      "etag": "\"4\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(13)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 13,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Other significant Activity",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#DCB2B2",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "Other",
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 13,
+    "Modified": "2021-11-26T10:17:08Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "5f81b1e0-a5a2-4e51-91a6-9c67ed1c74be"
+  },
+  {
+    "__metadata": {
+      "id": "f4c52849-deaa-4704-bf51-ad664e78ad6d",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)",
+      "etag": "\"10\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(14)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 14,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "SHAPE Holiday",
+    "Category": "Planning Calendar",
+    "NonWorking": true,
+    "Selected": true,
+    "seeb": "#FFFF00",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "Holiday",
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 14,
+    "Modified": "2021-12-02T10:46:05Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 16,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "51711d81-9a34-4fbc-9a9b-8cd161ca26ed"
+  },
+  {
+    "__metadata": {
+      "id": "e402237e-0445-4121-b1da-c90f0c2453f8",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)",
+      "etag": "\"8\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(15)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 15,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Visit",
+    "Category": "PMT",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#B2D0B2",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "PMT",
+    "Tooltip": "PMT Event",
+    "EventFontColor": null,
+    "ID": 15,
+    "Modified": "2021-12-02T11:04:23Z",
+    "Created": "2020-02-12T13:14:26Z",
+    "AuthorId": 13,
+    "EditorId": 16,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "05abe3f1-47f5-4d5d-90ea-df4dfed25c03"
+  },
+  {
+    "__metadata": {
+      "id": "2df6fe61-2549-48a0-bf0a-85a34d7bfb00",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)",
+      "etag": "\"10\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(16)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 16,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Conference",
+    "Category": "PMT",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#B2D0B2",
+    "Visible": true,
+    "InLegend": false,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 16,
+    "Modified": "2021-12-02T11:23:25Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 16,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "7e5e19c1-9db5-496c-a528-3ebbdd3e38c0"
+  },
+  {
+    "__metadata": {
+      "id": "020cb509-155a-4a99-84d3-82e7a38c2a86",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)",
+      "etag": "\"6\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(17)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 17,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Signature",
+    "Category": "PMT",
+    "NonWorking": false,
+    "Selected": false,
+    "seeb": "#B2D0B2",
+    "Visible": true,
+    "InLegend": null,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 17,
+    "Modified": "2021-12-02T11:27:24Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 16,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "9aaaab03-1cd0-4d66-aa07-2ae1359e3d0f"
+  },
+  {
+    "__metadata": {
+      "id": "01074a0b-9e92-46b4-990c-4b0e41d88002",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)",
+      "etag": "\"2\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(18)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 18,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Engagement",
+    "Category": "PMT",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#B2D0B2",
+    "Visible": true,
+    "InLegend": null,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 18,
+    "Modified": "2021-11-25T14:29:00Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "7986689e-62c9-4b7a-8685-910fed72dc5d"
+  },
+  {
+    "__metadata": {
+      "id": "b719f2b2-1006-4044-91cc-e398e6c76910",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)",
+      "etag": "\"2\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(19)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 19,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "NSOS",
+    "Category": "Training",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#87CEFA",
+    "Visible": true,
+    "InLegend": null,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 19,
+    "Modified": "2021-11-25T14:29:00Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "4c27c344-6f76-4621-a05a-06cf8bdf2d65"
+  },
+  {
+    "__metadata": {
+      "id": "e8ab6d7e-7f9c-47c0-8874-e047ceceb813",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)",
+      "etag": "\"4\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(20)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 20,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Planned Activities",
+    "Category": "SynchTool",
+    "NonWorking": false,
+    "Selected": true,
+    "seeb": "#F53D00",
+    "Visible": true,
+    "InLegend": true,
+    "ShortName": "PL. ACT.",
+    "Tooltip": "Sync Planned Activity",
+    "EventFontColor": null,
+    "ID": 20,
+    "Modified": "2021-11-26T10:56:12Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "e899f326-1d3e-4cce-bbb6-b08930585183"
+  },
+  {
+    "__metadata": {
+      "id": "306bcb55-8f92-4fa2-8ae6-f0befcfb0b34",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)",
+      "etag": "\"2\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(21)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 21,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "Leave Pending",
+    "Category": "PTS",
+    "NonWorking": false,
+    "Selected": false,
+    "seeb": "#6b0000",
+    "Visible": true,
+    "InLegend": null,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 21,
+    "Modified": "2021-11-25T14:29:03Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "bf9a3f73-9ce7-4e08-b2f4-aab312eb26c3"
+  },
+  {
+    "__metadata": {
+      "id": "5979d428-fbf0-4cb9-983b-b2431c84c282",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)",
+      "etag": "\"2\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(22)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 22,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "TDY Pending",
+    "Category": "PTS",
+    "NonWorking": false,
+    "Selected": false,
+    "seeb": "#000080",
+    "Visible": true,
+    "InLegend": null,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 22,
+    "Modified": "2021-11-25T14:29:04Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "1128a5cf-1c1d-4d02-b8a4-a5b9a6a3ecdc"
+  },
+  {
+    "__metadata": {
+      "id": "0958871f-58a8-4872-b9bb-a5de055ecf36",
+      "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)",
+      "etag": "\"2\"",
+      "type": "SP.Data.EventTypeListListItem"
+    },
+    "FirstUniqueAncestorSecurableObject": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/FirstUniqueAncestorSecurableObject"
+      }
+    },
+    "RoleAssignments": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/RoleAssignments"
+      }
+    },
+    "AttachmentFiles": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/AttachmentFiles"
+      }
+    },
+    "ContentType": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/ContentType"
+      }
+    },
+    "GetDlpPolicyTip": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/GetDlpPolicyTip"
+      }
+    },
+    "FieldValuesAsHtml": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/FieldValuesAsHtml"
+      }
+    },
+    "FieldValuesAsText": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/FieldValuesAsText"
+      }
+    },
+    "FieldValuesForEdit": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/FieldValuesForEdit"
+      }
+    },
+    "File": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/File"
+      }
+    },
+    "Folder": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/Folder"
+      }
+    },
+    "LikedByInformation": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/LikedByInformation"
+      }
+    },
+    "ParentList": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/ParentList"
+      }
+    },
+    "Properties": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/Properties"
+      }
+    },
+    "Versions": {
+      "__deferred": {
+        "uri": "https://jaav-6da773a3fbe1bb.sharepoint.com/sites/bryntum/PlanningView/_api/Web/Lists(guid'ab6630a6-e67a-4176-9b94-e19800d97c6c')/Items(28)/Versions"
+      }
+    },
+    "FileSystemObjectType": 0,
+    "Id": 28,
+    "ServerRedirectedEmbedUri": null,
+    "ServerRedirectedEmbedUrl": "",
+    "ContentTypeId": "0x01009159B4103633BC4DBFD749E6FC7D7918",
+    "Title": "National Holiday",
+    "Category": "Planning Calendar",
+    "NonWorking": false,
+    "Selected": false,
+    "seeb": "#6F33FF",
+    "Visible": true,
+    "InLegend": null,
+    "ShortName": null,
+    "Tooltip": null,
+    "EventFontColor": null,
+    "ID": 28,
+    "Modified": "2021-11-25T14:29:05Z",
+    "Created": "2020-02-12T13:14:27Z",
+    "AuthorId": 13,
+    "EditorId": 10,
+    "OData__UIVersionString": "1.0",
+    "Attachments": false,
+    "GUID": "8ba8faeb-10ee-4ca4-8d4a-28ee9b7c114d"
+  }
+]

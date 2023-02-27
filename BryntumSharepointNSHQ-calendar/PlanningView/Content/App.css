@@ -1,0 +1,225 @@
+﻿/* Place custom styles below */
+
+/* Custom */
+
+html, body {
+    overflow: hidden;
+    height: 100%;
+}
+
+body {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+body.b-change-size .nthqplaceholder {
+    transition: all .3s;
+}
+
+.b-tabpanel-tab:hover:not(.b-active), .b-tabpanel-tab:focus:not(.b-active) {
+    background-color: #feac31;
+    color: white;
+}
+
+.ms-core-overlay {
+    /*height: 100% !important;*/
+    /*width: 100% !important;*/
+    overflow: hidden !important;
+}
+
+#s4-bodyContainer {
+    height: 100%;
+}
+
+#contentRow {
+    height: 95%;
+}
+
+#contentBox {
+    height: 100%;
+}
+
+#DeltaPlaceHolderMain {
+    height: 90%;
+}
+
+.nthqplaceholder {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    background: #f0f0f0;
+    border: 2px solid #d0d0d0;
+    font-size: 14px;
+    height: 95%;
+}
+
+.nthqscheduler {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /*min-height: 90%;*/
+    flex: 1;
+}
+
+
+/* Tooltip */
+.b-sch-event-tooltip {
+    min-width : 190px;
+}
+
+.b-sch-event-tooltip dl,
+.b-sch-event-tooltip dt,
+.b-sch-event-tooltip dd {
+    padding : 0;
+    margin  : 0;
+}
+
+.b-sch-event-tooltip dd {
+    display        : flex;
+    flex-direction : row;
+    align-items    : center;
+    margin-top     : 0.3em;
+    line-height    : 1em;
+}
+
+.b-sch-event-tooltip dt {
+    font-weight: bold;
+}
+
+.b-sch-event-tooltip dt:not(:first-child) {
+    margin-top : 1em;
+}
+
+.b-sch-event-tooltip dd .image {
+    height : 250px;
+}
+
+/* Event editor */
+
+.b-eventeditor-content .b-widget.b-field:not(.b-display-field) {
+    height : 35px;
+}
+
+.b-eventeditor-content .b-has-label label, .b-eventeditor-content .b-has-label dt {
+    margin-left: unset;
+    text-align: left;
+    font-size:12px !important;
+    /*min-width: 100px;*/
+    text-transform: uppercase;
+    font-weight: 500;
+    text-overflow: ellipsis
+}
+
+.b-eventeditor.b-popup .b-eventeditor-content.b-popup-content {
+    padding-bottom: 15px;
+}
+
+.b-eventeditor-content .b-field-inner {
+    border-style: none;
+    font-size: smaller;
+}
+
+.b-eventeditor .b-popup-close {
+    color : white;
+}
+
+.nthqparticipants_table {
+    height: auto !important;
+}
+
+.nthqparticipants_table {
+    width:100%;
+    font-size:10px;
+}
+
+.nthqparticipants_table .b-field-inner {
+    background-color: white;
+}
+
+.nthqparticipants_table th {
+    text-align: left;
+}
+
+.b-sch-header-timeaxis-cell {
+    font-size: 9px;
+}
+
+.b-resource-info img {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+/*.b-cal-event-wrap.b-allday .b-cal-event {*/
+/* color: inherit;*/
+/*}*/
+
+.b-allday .b-cal-event-desc, .b-allday .b-cal-event {
+    color : unset !important;
+}
+
+.week-text {
+    transform: rotate(-90deg);
+    position: relative;
+    width: 100px;
+    margin-bottom: auto;
+    margin-top: auto;
+    align-self: center;
+}
+
+.b-ie .b-cal-event-bar-container.b-popup-content {
+    flex: auto !important;
+}
+
+.b-ie .b-dayview-day-content {
+    flex : 1 1 0%;
+    align-items : flex-start;
+}
+
+.b-expand-allday-button {
+    min-width: unset !important;
+}
+
+
+.b-ie .b-weekview .b-dayview-timeaxis-time {
+    padding: 0 1em 0 1em !important;
+}
+
+.b-ie .b-dayview .b-dayview-timeaxis-time {
+    padding: 0 1em 0 1em !important;
+}
+
+
+.b-agendaview .b-grid-cell.b-focused:after {
+    border: unset !important;
+}
+
+.b-agendaview .b-vertical-overflow {
+    overflow: auto !important;
+}
+
+.b-cal-event {
+    line-height: unset;
+}
+
+.b-cal-event-desc i {
+    margin-right: 3px;
+}
+
+/*.b-monthview .non-working.all-day .b-cal-event {*/
+/*    background-color: unset !important;*/
+/*}*/
+
+.b-cal-event-bar-container .b-cal-event-wrap.b-solid-bar {
+    opacity: 1 !important;
+}
+
+.b-cal-event-bar-container .b-cal-event-wrap.b-solid-bar:hover {
+    opacity: 0.8 !important;
+}
+
+.b-cal-event-bar-container .b-cal-event-wrap.b-overflow {
+    opacity: 0 !important;
+}
+
+
+
+

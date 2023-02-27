@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.vs/
+/.idea/
+/PlanningView/pkg/
+/PlanningView/pkgobj/
+/PlanningView/bin/Debug/
+/PlanningView/node_modules/
+/PlanningView/obj/Debug/
+/PlanningView/obj/Release/
+/node_modules/
+/PlanningView/package-lock.json

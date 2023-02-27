@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!--
+        Set the IE rendering engine to EDGE and loads a given aspx file in an iframe,
+        thus forcing it to be rendered using the browser's latest rendering engine.
+        Usage: ie.aspx?file.aspx
+        The default page to be loaded, when this file is accessed, can be set below (url variable).
+        (c) 2015 | Paul Tavares (@paul_tavares)
+        Gist: https://gist.github.com/purtuga/95ce7b50b22adc545c79
+        Blog post: http://wp.me/p2kCXW-95
+    -->
+    <title></title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <link rel="shortcut icon" href="/_layouts/15/images/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="shortcut icon" href="/_layouts/images/favicon.ico" type="image/vnd.microsoft.icon" />
+</head>
+<body style="margin:0px;overflow:hidden;">
+    <script type="text/javascript">
+    (function(window, document, location){
+        var iframe = document.createElement("iframe");
+        iframe.src = (function(){
+             var url = ""; //<-- Set this to the page you want to be loaded by default when user accesses this file.
+             if (location.search && location.search.length > 1) {
+                 url = location.search.substr(1);
+             } else {
+                 if (!url) {
+                     alert("No page to load!\nUsage: ie.aspx?pageToLoadHere.aspx");
+                     return;
+                 }
+                 location.href = (
+                        location.href.indexOf("?") > -1 ?
+                            location.href.substr(0, location.href.indexOf("?")) :
+                            location.href.indexOf("#") > -1 ?
+                                location.href.substr(0, location.href.indexOf("#")) :
+                                location.href
+                    ) +
+                    "?" + url + location.hash;
+             }
+             if (location.hash) {
+                 url += location.hash;
+             }
+             return url;
+        }());
+        if (!iframe.src) {return;}
+        iframe.hidefocus = true;
+        iframe.scrolling = "auto";
+        iframe.setAttribute("style", "border:none;width:100%;height:" + window.innerHeight + "px;");
+        document.body.appendChild(iframe);
+        window.addEventListener('resize', function(){
+            iframe.style.setProperty("height", window.innerHeight + "px");
+        });
+        setInterval(function(){
+            if (iframe.contentWindow.location.hash !== location.hash) {
+                location.hash = iframe.contentWindow.location.hash;
+            }
+        }, 500);
+    }(window, document, location));
+    </script>
+</body>
+</html>

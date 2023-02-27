@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\Header.css" Url="Content/Header.css" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-solid-900.ttf" Url="Content/calendar/fonts/fa-solid-900.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-solid-900.woff2" Url="Content/calendar/fonts/fa-solid-900.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Bold.woff" Url="Content/calendar/fonts/Roboto-Bold.woff" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Bold.woff2" Url="Content/calendar/fonts/Roboto-Bold.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Light.woff" Url="Content/calendar/fonts/Roboto-Light.woff" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Light.woff2" Url="Content/calendar/fonts/Roboto-Light.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Medium.woff" Url="Content/calendar/fonts/Roboto-Medium.woff" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Medium.woff2" Url="Content/calendar/fonts/Roboto-Medium.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Regular.woff" Url="Content/calendar/fonts/Roboto-Regular.woff" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\Roboto-Regular.woff2" Url="Content/calendar/fonts/Roboto-Regular.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\locales\calendar.locale.En.js" Url="Content/calendar/locales/calendar.locale.En.js" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\locales\calendar.locale.Nl.js" Url="Content/calendar/locales/calendar.locale.Nl.js" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\locales\calendar.locale.Ru.js" Url="Content/calendar/locales/calendar.locale.Ru.js" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\locales\calendar.locale.SvSE.js" Url="Content/calendar/locales/calendar.locale.SvSE.js" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\calendar.stockholm.css" Url="Content/calendar/calendar.stockholm.css" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\calendar.stockholm.css.map" Url="Content/calendar/calendar.stockholm.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\calendar.stockholm.min.css" Url="Content/calendar/calendar.stockholm.min.css" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\calendar.stockholm.min.css.map" Url="Content/calendar/calendar.stockholm.min.css.map" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-brands-400.ttf" Url="Content/calendar/fonts/fa-brands-400.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-brands-400.woff2" Url="Content/calendar/fonts/fa-brands-400.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-regular-400.ttf" Url="Content/calendar/fonts/fa-regular-400.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-regular-400.woff2" Url="Content/calendar/fonts/fa-regular-400.woff2" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-v4compatibility.ttf" Url="Content/calendar/fonts/fa-v4compatibility.ttf" ReplaceContent="TRUE" />
+    <File Path="Content\calendar\fonts\fa-v4compatibility.woff2" Url="Content/calendar/fonts/fa-v4compatibility.woff2" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
